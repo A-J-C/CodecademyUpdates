@@ -1,5 +1,6 @@
 This code adds more information to any CC profile; specifically: Best Streak and Points Today
-Run this code from the console
+
+Run this code from the console to get it to work:
 
     var profile = function () {
         if ($("form").attr("action") == "/admin/user_present?method=post") {
